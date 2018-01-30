@@ -1,3 +1,3 @@
 # ePortfolio
 
-University of Colorado Engineering Honors Program - Entering Class of 2017
+University of Colorado Boulder Engineering Honors Program - Entering Class of 2017
